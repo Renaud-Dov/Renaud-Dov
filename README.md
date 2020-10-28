@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=Renaud-Dov&show_icons=true&theme=gruvbox)
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Dov&show_icons=true&theme=gruvbox)
+![Stats](https://github-readme-stats.vercel.app/api?username=Renaud-Dov&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Dov&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
 <!--
 **Renaud-Dov/Renaud-Dov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
