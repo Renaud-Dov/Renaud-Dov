@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 👋 and Welcome On my Github Page
 ![Stats](https://github-readme-stats.vercel.app/api?username=Renaud-Dov&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Dov&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
+
+I am currently a student in computer science school, at [EPITA](https://www.epita.fr) in first year.
+I code mainly in Python and also in C++.
 <!--
 **Renaud-Dov/Renaud-Dov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
