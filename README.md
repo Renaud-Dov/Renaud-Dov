@@ -4,6 +4,12 @@
 
 I am currently a student in computer science school, at [EPITA](https://www.epita.fr) in first year.
 I code mainly in Python and also in C++.
+
+### ***Languages I code with :***
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-red?style=for-the-badge&logo=c%2B%2B)
+![OCAML](https://img.shields.io/badge/-Ocaml-blue?style=for-the-badge&logo=ocaml)
+
 <!--
 **Renaud-Dov/Renaud-Dov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
