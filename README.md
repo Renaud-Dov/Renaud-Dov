@@ -22,5 +22,5 @@ I code mainly in Python, C# and C++.
 ![Discord](https://img.shields.io/badge/Discord-dov__chavers%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
 [![Mail](https://img.shields.io/badge/Mail-dov@chavers.org-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:dov@chavers.org)
 [![Website](https://img.shields.io/badge/Website-renaud--dov.devers.me-red?style=for-the-badge)](https://renaud-dov.devers.me/)
-[![Instagram](https://img.shields.io/badge/Instagram-dov__devers-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dov_devers/)
+[![Instagram](https://img.shields.io/badge/Instagram-dov__devers.pub-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dov_devers.pub/)
 [![Twitter](https://img.shields.io/badge/Twitter-dov__chavers-lightblue?style=for-the-badge&logo=Instagram&logoColor=white)](https://twitter.com/dov_chavers/)
