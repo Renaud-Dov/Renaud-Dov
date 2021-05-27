@@ -3,7 +3,7 @@
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Renaud-Dov&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
 
 I am currently a student in computer science school, at [EPITA](https://www.epita.fr) in first year.
-I code mainly in Python, C# and C++.
+I mainly code in Python, C# and C++.
 
 ### Have a look on my website : [https://renaud-dov.devers.me/](https://renaud-dov.devers.me/)
 
@@ -14,8 +14,8 @@ I code mainly in Python, C# and C++.
 ![Csharp](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=C-Sharp)
 
 ### My current projects:
-- Discord Bot for attendance : [CheckStudents](https://github.com/Renaud-Dov/CheckStudents)
-- [Smart greenhouse](https://github.com/Renaud-Dov/serre-connecte)
+- Discord Bot for attendance: [CheckStudents](https://github.com/Renaud-Dov/CheckStudents)
+- Smart greenhouse using Arduino components: [Smart greenhouse](https://github.com/Renaud-Dov/serre-connecte)
 - Unity 3D Game in dev with LifeInvaders Team: [Panic At Tortuga](https://github.com/LifeInvaders/game)
 
 ### Contact me
