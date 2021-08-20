@@ -1,10 +1,9 @@
-### Hi there 👋 and welcome on my Github Page
-
+![LOGO2_1_1](https://user-images.githubusercontent.com/14821642/130301893-7d7ebc12-37b3-41bb-bab0-c1e21bf87a19.gif)
 
 I am currently a student at [EPITA](https://www.epita.fr).
-I am working on a few projects.  mainly code in Python, C# and C++.
+I am working on a few projects, mainly code in Python, C# and C++.
 
-### Have a look on my website : [https://renaud-dov.devers.me/](https://renaud-dov.devers.me/)
+### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://renaud-dov.devers.me/)
 
 ### Languages I code with 🎯:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
