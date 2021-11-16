@@ -8,14 +8,15 @@ I am working on a few projects, mainly code in Python, C# and C++.
 ### Languages I code with 🎯:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/-C++-red?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c&logoColor=white)
 ![Csharp](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=C-Sharp)
-![OCAML](https://img.shields.io/badge/-Ocaml-blue?style=for-the-badge&logo=ocaml)
+![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
 
-### My current projects 💻:
+
+### My projects 💻:
 - Discord Bot for attendance: [CheckStudents](https://github.com/Renaud-Dov/CheckStudents)
-- Google Assistant integration for Gnome
-- Smart greenhouse using Arduino components: [Smart greenhouse](https://github.com/Renaud-Dov/serre-connecte)
 - Unity 3D Game in dev with LifeInvaders Team: [Panic At Tortuga](https://github.com/LifeInvaders/game)
 
 ### Contact me 📢
