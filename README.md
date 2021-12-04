@@ -3,7 +3,7 @@
 I am currently a student at [EPITA](https://www.epita.fr).
 I am working on a few projects, mainly code in Python, C# and C++.
 
-### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://renaud-dov.devers.me/)
+### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](bugbear.fr)
 
 ### Languages I code with 🎯:
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
@@ -22,7 +22,7 @@ I am working on a few projects, mainly code in Python, C# and C++.
 ### Contact me 📢
 ![Discord](https://img.shields.io/badge/Discord-BugBear%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
 [![Mail](https://img.shields.io/badge/Mail-dov@chavers.org-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:dov@chavers.org)
-[![Website](https://img.shields.io/badge/Website-renaud--dov.devers.me-red?style=for-the-badge)](https://renaud-dov.devers.me/)
+[![Website](https://img.shields.io/badge/Website-bugbear.fr-red?style=for-the-badge)](https://bugbear.fr)
 [![Instagram](https://img.shields.io/badge/Instagram-dov__devers.pub-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dov_devers.pub/)
 [![Twitter](https://img.shields.io/badge/Twitter-dov__chavers-lightblue?style=for-the-badge&logo=Instagram&logoColor=white)](https://twitter.com/dov_chavers/)
 
