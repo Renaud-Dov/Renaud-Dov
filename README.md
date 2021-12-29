@@ -6,12 +6,13 @@ I am working on a few projects, mainly code in Python, C# and C++.
 ### Have a look on my website : [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](bugbear.fr)
 
 ### Languages I code with 🎯:
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-red?style=for-the-badge&logo=c%2B%2B)
-![C](https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c&logoColor=white)
-![Csharp](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=C-Sharp)
-![Swift](https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![OCAML](https://img.shields.io/badge/-Ocaml-orange?color=cc4100&style=for-the-badge&logo=ocaml&logoColor=white)
 
 
