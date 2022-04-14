@@ -32,10 +32,10 @@ I am working on a few projects.
 
 ### Contact me 📢
 [![LinkedIn](https://img.shields.io/badge/renaud.dov.devers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaud-dov-devers)
-![Discord](https://img.shields.io/badge/Discord-BugBear%230817-blue?style=for-the-badge&logo=discord&logoColor=white)
-[![Mail](https://img.shields.io/badge/Mail-dov@chavers.org-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:dov@chavers.org)
+![Discord](https://img.shields.io/badge/Discord-BugBear%238715-blue?style=for-the-badge&logo=discord&logoColor=white)
+[![Mail](https://img.shields.io/badge/Mail-contact@bugbear.fr-yellowgreen?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:dov@chavers.org)
 [![Website](https://img.shields.io/badge/Website-bugbear.fr-red?style=for-the-badge)](https://bugbear.fr)
-[![Instagram](https://img.shields.io/badge/Instagram-dov__devers.pub-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dov_devers.pub/)
+[![Instagram](https://img.shields.io/badge/Instagram-dov__devers-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dov_devers.pub/)
 [![Twitter](https://img.shields.io/badge/Twitter-dov__chavers-lightblue?style=for-the-badge&logo=Instagram&logoColor=white)](https://twitter.com/dov_chavers/)
 
 ### Github stats 📊
