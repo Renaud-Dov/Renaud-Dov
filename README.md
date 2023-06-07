@@ -32,7 +32,7 @@ Team ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo
 [![LinkedIn](https://img.shields.io/badge/renaud.dov.devers-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaud-dov-devers)
 [![Mail](https://img.shields.io/badge/contact@bugbear.fr-D14836?style=for-the-badge)](mailto:contact@bugbear.fr)
 [![Website](https://img.shields.io/badge/bugbear.fr-4DC730?style=for-the-badge)](https://bugbear.fr)
-![Discord](https://img.shields.io/badge/BugBear%238715-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/bugbear-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Twitter](https://img.shields.io/badge/dov__chavers-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dov_chavers/)
 
 
