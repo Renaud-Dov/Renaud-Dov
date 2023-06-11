@@ -1,5 +1,3 @@
-![LOGO2_1_1](https://user-images.githubusercontent.com/14821642/130301893-7d7ebc12-37b3-41bb-bab0-c1e21bf87a19.gif)
-
 #### Hi 👋. I am a IT student and 3rd year assistant at [EPITA](https://www.epita.fr).
 
 ### Languages I code with 🎯:
