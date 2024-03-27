@@ -1,4 +1,4 @@
-#### Hi 👋. I am a IT student and 3rd year assistant at [EPITA](https://www.epita.fr).
+#### Hi 👋. I am a IT student and 4th year developer at [EPITA](https://www.epita.fr).
 
 ### Languages I code with 🎯:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
